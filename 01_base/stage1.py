@@ -3,6 +3,8 @@
 What this stage adds: the first call to the model, with a list that holds one
 entry.
 Why: every later stage is this call again, with a longer list.
+
+To stage
 """
 import os
 from dotenv import load_dotenv
